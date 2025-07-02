@@ -7,7 +7,7 @@ Questions=[
 
     ["Who is the president of israel?","Nitin Yahu","Trump","Modi","Beyonce"],
 
-    ["Who is more sexy?","Elizabeth oalson","Tylor swift","Nitin gathkari","Harry Bhai"]
+    ["Who is more famous?","Elizabeth oalson","Tylor swift","Nitin gathkari","Harry Bhai"]
 
     
 
